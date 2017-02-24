@@ -5,4 +5,4 @@
 - A basic calculator terminal application. It was another short exercise that we did for class. It has 3 basic functions: 1) Add, 2) Subtract, and 3) Multiple.
 - There are a few design faults such no user error correction when they enter the wrong number. The user interface can be improved.
 
-![alt tag]https://github.com/alucinare/CFA-Calc-Chal/blob/master/images/calc_chal_screen.png
+![alt tag](https://github.com/alucinare/CFA-Calc-Chal/blob/master/images/calc_chal_screen.png)
